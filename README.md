@@ -5,11 +5,13 @@ Home: https://github.com/anki-code/xontrib-pipeliner
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xontrib-pipeliner-feedstock/blob/master/LICENSE.txt)
 
 Summary: Easily process the lines using pipes in xonsh.
 
+Development: https://github.com/anki-code/xontrib-pipeliner
 
+Documentation: https://github.com/anki-code/xontrib-pipeliner/blob/master/README.md
 
 Current build status
 ====================
