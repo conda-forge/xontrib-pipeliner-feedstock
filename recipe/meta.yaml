@@ -1,5 +1,5 @@
 {% set name = "xontrib-pipeliner" %}
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 7db8e5518fdc517aab7e77616a2a2e258b9fc2f43110fb76317301cbad21624c
+  sha256: ff2f31fbca455d56c0b3a527024905fb08169b6c6e3507c9a9d208b36961f66a
 
 build:
   noarch: python
